@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	JDoe -- s/w dev -- tweet@tweetJD
+	Bla  -- truch   -- abc
 	masterM -- masterChange -- mTwit
 
 # THANKS
